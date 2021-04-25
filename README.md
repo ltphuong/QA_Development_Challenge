@@ -1,7 +1,7 @@
 QA_Development_Challenge
 Automation Test for a web application: https://openweathermap.org/
 
-Feature:
+Features:
   1. Call current weather data for one location
   2. One Call API - Current and forecast weather data
 
