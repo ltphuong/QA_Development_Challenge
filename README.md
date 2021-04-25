@@ -1,4 +1,5 @@
 QA_Development_Challenge
+
 Automation Test for a web application: https://openweathermap.org/
 
 Features:
