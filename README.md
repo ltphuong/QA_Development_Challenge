@@ -1,4 +1,5 @@
 **QA Development Challenge Project**
+
 Automation Test for a web application: https://openweathermap.org/
 
 **Features:**
@@ -15,6 +16,7 @@ Automation Test for a web application: https://openweathermap.org/
 -	CI/CD integration (This item will be attached in another file)
 
 **Automation approach:**
+
 Because I don’t control data and don’t have permission to access to database so that I cannot get data to verify with Api response. My approach will be:
 - Open https://openweathermap.org/ and get data from UI
 - Send API request to get response data
