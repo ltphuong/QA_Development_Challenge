@@ -14,11 +14,10 @@ Technical in project:
 -	CI/CD integration (This item will be attached in another file)
 
 Automation approach:
--	Because I don’t control data and don’t have permission to access to database so that I cannot get data to verify with Api response. My approach will be:
-
-   o	Open https://openweathermap.org/ and get data from UI
-   o	Send API request to get response data
-   o	Verify data between UI and Api response
+- Because I don’t control data and don’t have permission to access to database so that I cannot get data to verify with Api response. My approach will be:
+     o Open https://openweathermap.org/ and get data from UI
+     o Send API request to get response data
+     o Verify data between UI and Api response
   
 Install
 -	Install java sdk version 8: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
