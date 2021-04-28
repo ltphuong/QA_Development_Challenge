@@ -32,8 +32,6 @@ Because I don’t control data and don’t have permission to access to database
 -	Go to folder that store souce code, open terminal and run "grade test"
 -	Report will be generated at “htmlReport” folder
 
-Notes: The scenario “2. One Call API” is failed because this is a bug. Please help to refer to in my bug list file (refer bug No.1).
-
 **Report**
 
 Here is feature overview page:
