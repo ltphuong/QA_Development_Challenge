@@ -13,7 +13,7 @@ Automation Test for a web application: https://openweathermap.org/
 -	BDD Cucumber framework
 -	Data driven
 -	Using Cucumber report
--	CI/CD integration (This item will be attached in another file)
+-	CI/CD integration (I attached this item in another file. Please help to refer file 4.Deploy CI_CID.docx)
 
 **Automation approach:**
 
