@@ -29,7 +29,7 @@ Because I don’t control data and don’t have permission to access to database
 
 **How to execute?**
 - Clone source from this repo to your PC
--	Go to folder that store souce code, open terminal and run "grade test"
+-	Go to folder that store this souce code, open terminal and run "grade test"
 -	Report will be generated at “htmlReport” folder
 
 **Report**
