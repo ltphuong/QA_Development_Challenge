@@ -25,7 +25,7 @@ Because I don’t control data and don’t have permission to access to database
 **Install**
 -	Install java sdk version 8: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 -	Install IntelliJ: https://www.jetbrains.com/idea/download/
--	Install Gradle 7.0: https://gradle.org/install/
+-	Install Gradle 6.8: https://gradle.org/install/
 
 **How to execute?**
 - Clone source from this repo to your PC
